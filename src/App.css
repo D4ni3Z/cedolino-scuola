@@ -1,0 +1,22 @@
+:root {
+  /* Brand */
+  --colore-brand: #0452A5;           /* Blu acceso */
+  --colore-brand-scuro: #033873;
+
+  /* Sezioni */
+  --sfondo-primaria: #F2F6FB;        /* Fondo pagina */
+  --sfondo-secondaria: #E9F4F6;      /* Box secondari */
+  --colore-bordo-box: #D1DCE8;       /* Bordi box */
+
+  /* Testo */
+  --colore-testo: #1A1A1A;           /* Testo principale */
+  --colore-testo-inverso: #FFFFFF;   /* Testo su sfondi scuri */
+
+  /* Accent (ottimizzato) */
+  --accent: #F0B600;                 /* Giallo scurito per contrasto */
+  --accent-scuro: #D9A200;
+
+  /* Stato */
+  --successo: #2E8B57;               /* Verde leggibile su bianco */
+  --errore: #C62828;                 /* Rosso ad alto contrasto */
+}
